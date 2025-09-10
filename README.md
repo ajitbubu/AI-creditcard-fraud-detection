@@ -38,6 +38,7 @@ A comprehensive fraud detection system that combines supervised machine learning
    - Ensure your dataset has a `Class` column (1 = fraud, 0 = legitimate)
    - The system works best with the Kaggle Credit Card Fraud Detection dataset
    - Sample data is provided in `data-source/creditcard_sample.csv`
+   - Download from here `https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data`
 
 ## 🚀 Usage
 
